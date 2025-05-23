@@ -3,7 +3,7 @@
     {
       "name": "Smorphi_Board",
       "maintainer": "Wefaa Robotics",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
+      "websiteURL": "https://github.com/WefaaRobotics/Smorphi_Board",
       "email": "developments@wefaarobotics.com.sg",
       "help": {
         "online": "http://esp32.com"
@@ -12,12 +12,12 @@
         {
           "name": "esp32",
           "architecture": "esp32",
-          "version": "",
+          "version": "2.0.4",
           "category": "ESP32",
-          "url": "",
-          "archiveFileName": "",
-          "checksum": "",
-          "size": "",
+          "url": "https://github.com/WefaaRobotics/Smorphi_Board/releases/download/current/Smorphi_Board.zip",
+          "archiveFileName": "Smorphi_Board.zip",
+          "checksum": "SHA-256:d3da9b8f9ba195637ede2fbbf41b01ded640c17aa2450687bb3a168892ca6863",
+          "size": "542517551 ",
           "help": {
             "online": ""
           },
